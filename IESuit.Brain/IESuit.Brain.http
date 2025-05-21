@@ -1,0 +1,6 @@
+@IESuit.Brain_HostAddress = http://localhost:5020
+
+GET {{IESuit.Brain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
