@@ -37,8 +37,8 @@ To run this application locally, ensure you have the following prerequisites ins
 ### **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/DevbyAliCom/IESuite.git](https://github.com/DevbyAliCom/IESuite.git)  # Or your new repo URL
-cd IESuite                                        # Or your new repo name
+git clone https://github.com/DevbyAliCom/IESuite.git 
+cd IESuite                                        
 ```
 ### **2. Run the Application**
 
